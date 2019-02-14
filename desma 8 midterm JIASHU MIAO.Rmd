@@ -1,0 +1,17 @@
+---
+title: "UCLA DESMA 8 Midterm JIASHU MIAO"
+author: "JIASHU MIAO"
+date: "2/13/2019"
+output:
+  pdf_document:
+    latex_engine: xelatex
+    toc: true
+    toc_depth: 3
+    number_sections: true
+header-includes:
+- \usepackage{color}
+- \usepackage{graphicx}
+- \usepackage{multirow}
+- \usepackage{MnSymbol,wasysym}
+- \usepackage{blindtext}
+---
